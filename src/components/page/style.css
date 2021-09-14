@@ -1,0 +1,21 @@
+.title{
+    padding: 14px;
+font-size: 20px;
+}
+.Date{
+padding-left: 60%;
+}
+.foot{
+    align-items: center;
+    text-align: center;
+}
+.date{
+    color: grey;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    color: blue;
+}
